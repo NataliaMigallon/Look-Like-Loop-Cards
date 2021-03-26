@@ -6,7 +6,7 @@
 En él hemos programado una aplicación que genera tarjetas de visita virtuales con los datos personales de la usuaria o usuario (nombre, puesto de trabajo, email, foto de perfil, teléfono, y cuentas de Linkedin y GitHub), y que puede ser compartida a través de las diferentes redes sociales mediante URL compartida.
 Para desarrollar esta web hemos utilizado diferentes herramientas como HTML5, CSS3, SASS, Gulp y Java Script (manipulación del DOM, eventos y manejo de estructuras de datos, peticiones al servidor y almacenamiento de datos en local).
 
-Para ver el proyecto tienes dos opciones: hacer click [aquí](http://beta.adalab.es/project-promo-l-module-2-team-5/), o instalarlo en tu ordenador.
+Para ver el proyecto tienes dos opciones: hacer click [aquí](https://nataliamigallon.github.io/project-promo-l-module-2-team-5/), o instalarlo en tu ordenador.
 
 ## Instalación
 
