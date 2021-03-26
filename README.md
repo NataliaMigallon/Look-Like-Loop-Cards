@@ -1,4 +1,4 @@
-![image](https://github.com/NataliaMigallon/project-promo-l-module-2-team-5/tree/master/src/images/Favicon-new.png)
+![image](github.com/NataliaMigallon/project-promo-l-module-2-team-5/tree/master/src/images/Logo_cards.png)
 
 # Look Like Loop Cards
 
